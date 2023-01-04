@@ -1,5 +1,7 @@
 <?php
 echo "Hello Github";
+echo "Hello Github new";
+echo "Hello Github new line added";
 ?>
 
 <?php
